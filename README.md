@@ -1,33 +1,85 @@
-# Banking System - Java Swing Project
+# 🏦 Banking System – Java Swing Desktop Application
 
-## Description
-The Banking System is a Java Swing application that simulates basic banking operations. It provides a user-friendly interface for managing accounts, transactions, and other essential banking functions.
+## 📌 Overview
 
-## Features
-- Account creation and management
-- Deposit and withdrawal transactions
-- Balance inquiry
-- Transaction history
-- User-friendly GUI with Java Swing
+This project is a **Java-based Desktop Banking System** developed using **Java Swing** for the graphical user interface and **Core Java** concepts for business logic.
+The application simulates real-world banking operations such as account management, transactions, and user authentication in a secure and user-friendly desktop environment.
+
+---
+
+## 🚀 Features
+
+* 🔐 User authentication (Login system)
+* 🧾 Create and manage bank accounts
+* 💰 Deposit and withdrawal operations
+* 🔄 Fund transfer between accounts
+* 📊 View account balance and transaction details
+* 🖥️ Interactive GUI built using Java Swing
+
+---
+
+## 🛠️ Tech Stack
+
+* **Programming Language:** Java
+* **GUI Framework:** Java Swing
+* **Concepts Used:**
+
+  * Object-Oriented Programming (OOP)
+  * Event Handling
+  * Exception Handling
+  * Modular Class Design
+
+---
+
+## 📂 Project Structure
+
+```
+Banking_System/
+│── src/
+│   ├── Main.java
+│   ├── Login.java
+│   ├── Dashboard.java
+│   ├── Account.java
+│   └── Transaction.java
+│── README.md
+```
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/AbhishekRajvanshi07/Banking_System.git
+   ```
+2. Open the project in **IntelliJ IDEA / Eclipse / VS Code**
+3. Compile and run:
+
+   ```bash
+   javac Main.java
+   java Main
+   ```
+
+> ⚠️ Note: This is a **desktop application**, not a web application.
+
+---
 
 
-## Technologies Used
-- Java
-- Java Swing for GUI
-
-## Usage
-1. Launch the application.
-2. Follow the on-screen instructions to perform banking operations.
-
-## Contribution
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (git checkout -b feature/new-feature)
-3. Commit your changes (git commit -m 'Add new feature')
-4. Push to the branch (git push origin feature/new-feature)
-5. Create a pull request
 
 
 
+## 📸 Screenshots
 
+*(Add screenshots of Login page, Dashboard, Transactions window if available)*
+
+---
+
+
+
+## 👤 Author
+
+**Abhishek Rajvanshi**
+Engineering Student | Java & Full-Stack Developer
+
+---
