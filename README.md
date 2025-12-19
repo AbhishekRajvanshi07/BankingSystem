@@ -72,13 +72,13 @@ Banking_System/
 ## 📸 Screenshots
 
 ### 🔐 Sign In Page
-![Sign In Page](Screenshot/SignIn%20page.png)
+![Sign In Page](Screenshot/SignIn%20Page.png)
 
 ### 📝 Application Form – Step 1
 ![Application Form 1](Screenshot/Application%20form1.png)
 
 ### 📝 Application Form – Step 2
-![Application Form 2](Screenshot/Application%20form2.png)
+![Application Form 2](Screenshot/Application%20form%202.png)
 
 ### 📝 Application Form – Step 3
 ![Application Form 3](Screenshot/Application%20form3.png)
